@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-6726832112731608242-582",
+  "private_key_id": "cfcf67ab97ef16f257b7116fb684f4370ca50972",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUBuHjTDsBsFQ7\nF1wRGzRhBqE6dsVKPOwnAC6kFud77YBwZv0XV9kuKOPRxZmOSxpxte5kL6y+ZwrZ\n2SBrHFaKbySEDfVjhkoXmzQrxrBFLcgOSZI8O+svr8votyDIZ8LY3whg5xUfvLMT\nZ52PvGLKkrvwxQV0ZD1bCCkass/c48xdB09fXzZ7T503CZ6QNyGLdZVYpgGWcpdm\nvsoQwpbXTm5cr5tQQkuJOxBDZY35F16Odm4nguMaF2EaDlIVHV9ykjIBh2TmJ3jI\n3hYnHWdU7eAsxlYXCB16DsVygDrRSNMRtW3sbsgq/BHuUhpZDp2j+SNHZ/IPWAoh\nxY1c9UkjAgMBAAECggEAFWFGSOXIc3Ck5bqCyaTNINWKz3rnhQdkpsAhc+FtYTU/\nRNZVwhNVLo7n/iCnTc5r8bhvPAIEsMRyNypqVvKqFVaEv54qtuj1MrEvTxS/dJJb\nwHkRumouWoYnESXaM+smnjjLPv4+Ro+AHT5PCI3uBlBKjEpJtQVgnHvTrUIHrNXK\nqo9q/w1Ayjl8bwVG6og/5W+KqBcnIXLs4F11/SUiR6+mbA1e3VYfbXm0qeSpknFu\ncJP7uaf4/inPulzAR6am3WfSMR8mkvz2e7g8xX8pSBWBhIEnF2R8DBPy/U4rlIlq\nQUm15t0AiDeRtH/+IV7ubOxbqSExRb1Zz2qDnet6+QKBgQDqhkmhQ7uClDo/Zlay\nH0S6XuNB0DmA+vb46Y8Cu6X4UvG7s1r1Wyb208+1cAmQ5xRutrzwe7jjeHdJHj5z\nssP65EQnKph59dswgwlYP88qSnnx0PkJFPjSDz/BE2dONozUk1tETQ39e8hgprvb\nfO3z9vTlr/OIIbw94NX3lg9S2QKBgQDncTSVjJvxIQFkEjdQKQEHhdh/IJ0IUmu+\nSBo++HwIpZAyI+zQduEn07Ab/SAouVcPm4Jky71/8hd9BmNllWOed4oBRgVDD+0V\ntm8OEA+Cx3HCANG2ljDdB+kkq0nupkdI3NXiZmD9TnMq7wE8HWEcgDl2nUpeE7Pf\nIMpHc4fGWwKBgQDhg43Lx2DImJZGHrdhApZJDDNFNuAEuc7A3X3KJ/zZg5C1aCsf\n4a3fDSAfHQPl1X6dU5TtPls0SMOTiMSO5qhzWgp7CwehxxslU+upc3pW9VS7hbHi\n3MrC2yz4ERt2ZxgW1TeevuWkCOJOpiXgUgpSXPdy4jWwgpgLfGbjc+V6SQKBgF8v\n9hqTzAcuNe48d7dmReAcMmCGv08O5vVJnlHLzOeZgGa+08UhP5UrwUChqLpXD/GB\nWe2uxe97WCG5oOPEv0YLkBzZ+YwNXssRTzePb3GwKZ9KyvW3a71cZY0JTczzYlob\nSXRl+vnza/Z6eh2JT8lzCy83ncB3hgD88XTVlUAFAoGAb3yD8ztGRJ2wSEo2cGrX\nFM4JXm1J4D9vFU8YRk3dBuOT1OoUvTr1wVmHdCgp2/9HeOwa+kmBXs6LOotT86r9\nxhXDAz5vswgzU/pmK/EK6CE3Vu6Hts7cXl2nvpM0ZfDXbLSjty8eIFZQdSjtnCCv\nugdJXUZlHy8J9mDgmnODGc8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ripples-mobile-app@pc-api-6726832112731608242-582.iam.gserviceaccount.com",
+  "client_id": "113387392828420946201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ripples-mobile-app%40pc-api-6726832112731608242-582.iam.gserviceaccount.com"
+}
